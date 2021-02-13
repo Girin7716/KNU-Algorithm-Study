@@ -24,6 +24,18 @@
     - ex> git commit -m "2주차_백준_11054_Re"
   - `src/개인 폴더/문제사이트_문제 제목/`에 `코드`와 `README.md `를 업로드한다.
   - 각자의 브랜치를 생성하고, 각자의 브랜치로 PR을 보낸다.
+    - ex>
+      >git branch kihyun (브랜치 생성)<br>
+      git checkout kihyun (브랜치로 이동)<br>
+      한 문제 올린 후<br>
+      git add * (파일 추가)<br>
+      git commit -m "0주차_백준_10942_Sol" (추가한 파일 커밋)<br>
+      git push origin kihyun (자신의 브랜치에 커밋한 내용 푸쉬)<br>
+      깃허브 사이트로 와서 PR버튼 누르기<br>
+      관리자가 코드 변경 확인 후 merge<br>
+      git checkout master (마스터 브랜치로 이동)<br>
+      git pull (변경 내용 로컬에 가져오기)<br>
+      git branch -d kihyun (자신이 생성한 브랜치 삭제)<br>
   - 일요일 저녁 9시에 코드 리뷰가 끝나고 master Branch로 Merge한다.
 - 특별한 사정을 제외하고, 주 문제를 풀지 않았을 경우 **벌금 ~~~~원**.
 
