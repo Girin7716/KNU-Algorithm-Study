@@ -1,6 +1,6 @@
-# ? KNU Algorithm Study ?
+# :Laptop Computer: KNU Algorithm Study :Laptop Computer:
 
-## ? 알고리즘 사이트
+## :Closed Book: 알고리즘 사이트
 
 스터디는 다음 알고리즘 사이트에 있는 문제로 진행한다.
 
@@ -8,7 +8,7 @@
 
 [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges) - Level 2 이상
 
-## ? 진행방식
+## :Orange Book: 진행방식
 
 - **매주 2~3문제**를 정해서 문제풀이를 진행.
 - 주마다 돌아가면서 문제 선택
@@ -27,7 +27,7 @@
   - 일요일 저녁 9시에 코드 리뷰가 끝나고 master Branch로 Merge한다.
 - 특별한 사정을 제외하고, 주 문제를 풀지 않았을 경우 **벌금 ~~~~원**.
 
-## ?? Week Study
+## :Pencil: Week Study
 
 |        |                              1                               |                              2                               |                            3                            |                              
 | ------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | 
@@ -35,7 +35,7 @@
 | 2주차 | [문제 제목](문제링크) | [문제 제목](문제링크) | [문제 제목](문제링크) |
 | N주차 | [문제 제목](문제링크) | [문제 제목](문제링크) | [문제 제목](문제링크) |
 
-## ? Additional Study
+## :Memo: Additional Study
 
 > 개인적으로 알고리즘 문제를 풀면서 좋다고 생각하는 문제를 공유하는 공간.
 
@@ -44,7 +44,7 @@
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012)      
 | [문제](문제링크) | [푼 사람 이름](문제링크) |
 
-## ??♂?Contributors??♀
+## :Man Raising Hand: Contributors :Woman Raising Hand:
 
 | [김기현](https://github.com/girin7716) | [people2](https://github.com/girin7716) | [people3](https://github.com/girin7716) |
 |:-------------------------------------:|:-----------------------------------------:|:-------------------------------------:|
