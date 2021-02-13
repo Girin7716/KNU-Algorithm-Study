@@ -1,4 +1,4 @@
-# :laptop_computer: KNU Algorithm Study :laptop_computer:
+# :computer: KNU Algorithm Study :computer:
 
 ## :closed_book: 알고리즘 사이트
 
@@ -44,7 +44,7 @@
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012)      
 | [문제](문제링크) | [푼 사람 이름](문제링크) |
 
-## :man_raising_hand: Contributors :woman_raising_hand:
+## :boy: Contributors :girl:
 
 | [김기현](https://github.com/girin7716) | [people2](https://github.com/girin7716) | [people3](https://github.com/girin7716) |
 |:-------------------------------------:|:-----------------------------------------:|:-------------------------------------:|
