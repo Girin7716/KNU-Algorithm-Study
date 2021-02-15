@@ -36,6 +36,7 @@
       git checkout master (마스터 브랜치로 이동)<br>
       git pull (변경 내용 로컬에 가져오기)<br>
       git branch -d kihyun (자신이 생성한 브랜치 삭제)<br>
+      git push origin :kihyun (깃허브에서도 삭제)<br>
   - 일요일 저녁 9시에 코드 리뷰가 끝나고 master Branch로 Merge한다.
 - 특별한 사정을 제외하고, 주 문제를 풀지 않았을 경우 **벌금 ~~~~원**.
 
