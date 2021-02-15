@@ -63,5 +63,5 @@
 ## :boy: Contributors :girl:
 
 | [김기현](https://github.com/girin7716) | [이상민](https://github.com/Sangmeeeee) | [안상준](https://github.com/twknds) |
-|:-------------------------------------:|:-----------------------------------------:|:-------------------------------------:|
-| [people4](https://github.com/girin7716)| [people5](https://github.com/girin7716)     | [people6](https://github.com/girin7716) |
+|-------------------------------------|-----------------------------------------|-------------------------------------|
+| [이채현](https://4legs-study.tistory.com/)| [people5](https://github.com/girin7716)     | [people6](https://github.com/girin7716) |
