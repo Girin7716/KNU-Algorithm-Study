@@ -32,7 +32,10 @@
       git commit -m "0주차_백준_10942_Sol" (추가한 파일 커밋)<br>
       git push origin kihyun (자신의 브랜치에 커밋한 내용 푸쉬)<br>
       깃허브 사이트로 와서 PR버튼 누르기<br>
-      관리자가 코드 변경 확인 후 merge<br>
+
+      ------------------------------------
+      
+      >관리자가 코드 변경 확인 후 merge<br>
       git checkout master (마스터 브랜치로 이동)<br>
       git pull (변경 내용 로컬에 가져오기)<br>
       git branch -d kihyun (자신이 생성한 브랜치 삭제)<br>
