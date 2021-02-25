@@ -57,7 +57,7 @@
 | ------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | 
 | 1주차 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [소수의 연속합](https://www.acmicpc.net/problem/1644) |
 | 1주차 문제 푼 사람 | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_12100) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/BOJ_12100) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/BOJ_12100)| [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_9466) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/BOJ_9466) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/BOJ_9466)| [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/BOJ_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/BOJ_1644)|
-| 2주차 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [로봇 청소기](https://www.acmicpc.net/problem/4991) | [](https://www.acmicpc.net/problem/17143) |
+| 2주차 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [로봇 청소기](https://www.acmicpc.net/problem/4991) | [낚시꾼](https://www.acmicpc.net/problem/17143) |
 | 2주차 문제 푼 사람 |  |  |  |
 | N주차 | [문제 제목](문제링크) | [문제 제목](문제링크) | [문제 제목](문제링크) |
 | N주차 문제 푼 사람 | [김기현](문제링크) | [김기현](문제링크) | [김기현](문제링크) |
