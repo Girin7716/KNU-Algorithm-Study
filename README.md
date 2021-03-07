@@ -74,7 +74,8 @@
 | -------- | ----------------------------------------------------- | 
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012)      
 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [이상민](https://www.acmicpc.net/problem/4485) 
-| [집 구하기](https://www.acmicpc.net/problem/13911) | [이상민](https://www.acmicpc.net/problem/13911) |
+| [집 구하기](https://www.acmicpc.net/problem/13911) | [이상민](https://www.acmicpc.net/problem/13911) 
+| [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) | [이상민](https://www.acmicpc.net/problem/11053) |
 
 ## :boy: Contributors :girl:
 
