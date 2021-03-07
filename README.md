@@ -62,7 +62,7 @@
 | 3주차 | [학교 탐방하기](https://www.acmicpc.net/problem/13418) | [달빛 여우](https://www.acmicpc.net/problem/16118) | [반도체 설계](https://www.acmicpc.net/problem/2352) |
 | 3주차 문제 푼 사람 | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_3/BOJ_13418) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_3/BOJ_16118) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_3/BOJ_2352) |
 | 4주차 | [[1차]추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
-| 4주차 문제 푼 사람 | [문제1](문제링크) | [문제2](문제링크) | [문제3](문제링크) |
+| 4주차 문제 푼 사람 | [사람1](문제링크) | [사람2](문제링크) | [사람3](문제링크) |
 | N주차 | [문제 제목](문제링크) | [문제 제목](문제링크) | [문제 제목](문제링크) |
 | N주차 문제 푼 사람 | [사람이름](문제링크) | [사람이름](문제링크) | [사람이름](문제링크) |
 
