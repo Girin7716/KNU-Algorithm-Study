@@ -75,7 +75,8 @@
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012)      
 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_4485)
 | [집 구하기](https://www.acmicpc.net/problem/13911) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_13911)
-| [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_11053) |
+| [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_11053)
+| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현]() |
 
 ## :boy: Contributors :girl:
 
