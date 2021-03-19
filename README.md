@@ -64,7 +64,7 @@
 | 4주차 | [[1차]추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
 | 4주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week4/%5B1%EC%B0%A8%5D%EC%B6%94%EC%84%9D%20%ED%8A%B8%EB%9E%98%ED%94%BD) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_4/P_17676)| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week4/%ED%95%A9%EC%8A%B9%20%ED%83%9D%EC%8B%9C%20%EC%9A%94%EA%B8%88) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_4/P_72413)| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week4/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_4/P_17677)|
 | 5주차 | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) | [양팔저울](https://www.acmicpc.net/problem/2629) | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |
-| 5주차 문제 푼 사람 | [사람이름](문제링크) | [사람이름](문제링크) | [사람이름](문제링크) |
+| 5주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week5/%EB%A7%A4%EC%B6%9C%20%ED%95%98%EB%9D%BD%20%EC%B5%9C%EC%86%8C%ED%99%94) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week5/%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week5/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89) |
 
 ## :memo: Additional Study
 
