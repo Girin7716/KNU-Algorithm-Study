@@ -137,8 +137,9 @@
 | 6주차 | [Parcel](https://www.acmicpc.net/problem/16287) | [도로포장](https://www.acmicpc.net/problem/1162) | [사회망 서비스](https://www.acmicpc.net/problem/2533) |
 | 6주차 문제 푼 사람 | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_16287) | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_1162) | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_2533)
 | 7주차 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
-| 7주차 문제 푼 사람 |  |  | 
-
+| 7주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)  | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%9C%B7%EB%86%80%EC%9D%B4) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EC%B9%9C%EA%B5%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) |
+| 8주차 |  |  |  | 
+| 8주차 문제 푼 사람 |  |  |  |
 
 ## :memo: Additional Study
 
@@ -156,4 +157,6 @@
 
 | [김기현](https://github.com/girin7716) | [이상민](https://github.com/Sangmeeeee) | [안상준](https://github.com/twknds) |
 |-------------------------------------|-----------------------------------------|-------------------------------------|
-| [이채현](https://4legs-study.tistory.com/)| [people5](https://github.com/girin7716)     | [people6](https://github.com/girin7716) |
+| [이채현](https://4legs-study.tistory.com/)| [김강민](https://github.com/kkw1939)     | [정소희](https://github.com/cwc06129) |
+|-------------------------------------|-----------------------------------------|-------------------------------------|
+| [장다영](https://github.com/Da01002)| []()     | [peiple]() |
