@@ -80,27 +80,27 @@
 - KNU-Alogorithm-Study로 이동하면 본인이 변경한 사항이 아직 Merge되지 않았기 때문에 pull request후 merge를 해줘야한다.
 - 상단의 Compare & pull request 클릭 -> Open pull request page로 자동 이동
 
-<img src="https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/img/1.png">
+<img src="/img/1.png" width="300" height="300>
 
 #### Open pull request page
 - 본인이 작성한 커밋 내용과 간단한 comment를 남길 수 있는 화면이 보인다.
 - comment를 남기지 않는다면, 우측 하단의 Create pull request 클릭 -> branch page로 자동이동
 
-<img src="https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/img/2.png">
+<img src="/img/2.png" width="700" height="300>
 
 #### branch page
 - 본인이 커밋한 내용을 확인 할 수 있음
 - 만약 이 브랜치를 최종적으로 master 브랜치에 합치고 싶다면 좌측 하단의 Merge pull request 클릭
 
-<img src="https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/img/3.png>
+<img src="/img/3.png" width="700" height="300>
 
 - Merge pull request 후 branch를 삭제해준다.
 
-<img src="https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/img/4.png">
+<img src="/img/4.png" width="700" height="300>
 
 - master branch에 변경사항이 성공적으로 merge되었는지 확인해준다.
 
-<img src="https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/img/5.png">
+<img src="/img/5.png" width="700" height="300>
 
 ### 다시 본인의 git bash나 터미널로 돌아와서 브랜치를 삭제해준다.
 
