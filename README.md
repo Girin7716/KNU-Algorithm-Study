@@ -24,32 +24,101 @@
     - ex> git commit -m "2주차_백준_11054_Re"
   - `src/개인 폴더/문제사이트_문제 제목/`에 `코드`와 `README.md `를 업로드한다.
   - 각자의 브랜치를 생성하고, 각자의 브랜치로 PR을 보낸다.
-    - ex>
-      >git branch kihyun (브랜치 생성)<br>
-      git checkout kihyun (브랜치로 이동)<br>
-      한 문제 올린 후<br>
-      git add * (파일 추가)<br>
-      git commit -m "0주차_백준_10942_Sol" (추가한 파일 커밋)<br>
-      git push origin kihyun (자신의 브랜치에 커밋한 내용 푸쉬)<br>
-      깃허브 사이트로 와서 PR버튼 누르기<br>
 
-      ------------------------------------
-      
-      >관리자가 코드 변경 확인 후 merge<br>
-      git checkout master (마스터 브랜치로 이동)<br>
-      git pull (변경 내용 로컬에 가져오기)<br>
-      git branch -d kihyun (자신이 생성한 브랜치 삭제)<br>
-      git push origin :kihyun (깃허브에서도 삭제)<br>
-  - 일요일 저녁 9시에 코드 리뷰가 끝나고 master Branch로 Merge한다.
-- 특별한 사정을 제외하고, 주 문제를 풀지 않았을 경우 **벌금 ~~~~원**.
+### 브랜치 작성, commit, 삭제 방법
 
-## :ledger: 간단 요약
+본 이미지와 예시는 Mac OS에서 작성되었지만 git command를 사용하기때문에 Window에서는 git bash **(git clone 폴더 (해당 스터디에서는 KNU-Algorithm-study폴더가 되겠다)에서 우클릭 후, git bash 클릭)** 를 사용했다 생각하고 작성한다.
 
-1. 코드 마감 일요일 저녁 9시
+기본적으로 깃허브의 사용법 숙달을 위해 **각자 인원은 본인의 브랜치를 만들고**, 그 브랜치 안에서 알고리즘 문제를 풀고, 각자의 브랜치를 master 브랜치에 붙이는 것으로 코드의 제출을 마무리한다.
 
-2. 각자 코드에 질문사항이나 질문사항 없으면 “확인완료”라고 적기
+아래 command들을 통해 branch의 생성과 pull request 요청을 할 수 있다.
 
-3. 문제는 일주일당 각자 1문제 출제 (총 4문제)
+현재 branch 확인 command를 제외하고 아래의 단계를 실행하면 완료 할수 있다.
+
+#### 현재 branch 확인 command
+
+- git branch
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git branch
+
+
+#### branch 생성 command
+
+- git branch '원하는 branch 이름'
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git branch test_branch
+
+#### branch 이동 command
+
+- git checkout '원하는 branch 이름'
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git checkout test_branch
+
+#### (이동한 branch에서) git add command
+
+##### ※ add 하기 전, 본인이 깃허브에 올릴 파일을 브랜치 안에 넣어줘야 한다. (미리 KNU-Algorithm-Study 폴더에 branch_text.txt파일을 만들어 놓았다. 원래대로라면 본인이 작성한 코드를 본인의 폴더안에 넣어놓은 상태면 된다.)
+
+- git add *
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git add *
+
+#### (이동한 branch에서) git commit command
+
+- git commit -m '원하는 커밋 내용'
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git commit -m "test_branch_commit"
+
+#### (이동한 branch에서) git push command
+
+- git push origin '현재 브랜치 이름'
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git push origin test_branch
+
+### 이 단계까지 완료한다면 본인의 PC에서 처리 할 일은 끝나게 된다.
+
+#### github KNU-Algorithm-Study로 이동
+- KNU-Alogorithm-Study로 이동하면 본인이 변경한 사항이 아직 Merge되지 않았기 때문에 pull request후 merge를 해줘야한다.
+- 상단의 Compare & pull request 클릭 -> Open pull request page로 자동 이동
+
+<img src="./img/1.png>
+
+#### Open pull request page
+- 본인이 작성한 커밋 내용과 간단한 comment를 남길 수 있는 화면이 보인다.
+- comment를 남기지 않는다면, 우측 하단의 Create pull request 클릭 -> branch page로 자동이동
+
+<img src="./img/2.png>
+
+#### branch page
+- 본인이 커밋한 내용을 확인 할 수 있음
+- 만약 이 브랜치를 최종적으로 master 브랜치에 합치고 싶다면 좌측 하단의 Merge pull request 클릭
+
+<img src="./img/3.png>
+
+- Merge pull request 후 branch를 삭제해준다.
+
+<img src="./img/4.png>
+
+- master branch에 변경사항이 성공적으로 merge되었는지 확인해준다.
+
+<img src="./img/5.png>
+
+### 다시 본인의 git bash나 터미널로 돌아와서 브랜치를 삭제해준다.
+
+#### 삭제하기 전에 master branch로 이동해준다.
+
+- git branch -D '삭제할 브랜치 이름'
+
+		isangmin@isangmin-ui-MacBookPro KNU-Algorithm-Study % git branch -D test_branch
+
+이 단계까지 왔으면 branch를 생성하고 commit하고 삭제하는 과정이 종료되게 된다.
+		
+## ~~:ledger: 간단 요약~~
+
+~~1. 코드 마감 일요일 저녁 9시~~
+
+~~2. 각자 코드에 질문사항이나 질문사항 없으면 “확인완료”라고 적기~~
+
+~~3. 문제는 일주일당 각자 1문제 출제 (총 4문제)~~
 
 ## :pencil: Week Study
 
