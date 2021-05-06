@@ -142,8 +142,10 @@
 | 8주차 문제 푼 사람 | 시험기간 | 시험기간 | 시험기간 |
 | 9주차 | 시험기간 | 시험기간 | 시험기간 | 
 | 9주차 문제 푼 사람 | 시험기간 | 시험기간 | 시험기간 |
-| 10주차 |  |  |  | 
-| 10주차 문제 푼 사람 |  |  |  |
+| 10주차 | ... | ... | ... | 
+| 10주차 문제 푼 사람 | ... | ... | ... |
+| 11주차 |  |  |  | 
+| 11주차 문제 푼 사람 |  |  |  |
 
 ## :memo: Additional Study
 
@@ -157,6 +159,7 @@
 | [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_11053)
 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) |
 | [ACM Craft](https://www.acmicpc.net/problem/1005) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1005) |
+| [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1022) |
 
 ## :boy: Contributors :girl:
 
