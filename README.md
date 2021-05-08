@@ -166,5 +166,5 @@
 
 | [김기현](https://github.com/girin7716) | [이상민](https://github.com/Sangmeeeee) | [안상준](https://github.com/twknds) |
 |-------------------------------------|-----------------------------------------|-------------------------------------|
-| [이채현](https://4legs-study.tistory.com/)| [김강민](https://github.com/kkw1939)     | [정소희](https://github.com/cwc06129) |
-| [장다영](https://github.com/Da01002)| [조희원]()     | [people]() |
+| [이채현](https://4legs-study.tistory.com/)| [김강민](https://github.com/kkw1939)     | [조희원]() |
+| [장다영](https://github.com/Da01002)| [people]() | [people]() |
