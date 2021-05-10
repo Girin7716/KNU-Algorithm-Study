@@ -162,6 +162,7 @@
 | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1022) |
 | [고층 건물](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1027) |
 | [Contact](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1013) |
+| [탑](https://www.acmicpc.net/problem/2493) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2493) |
 
 ## :boy: Contributors :girl:
 
