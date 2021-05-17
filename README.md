@@ -161,7 +161,7 @@
 | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1022) | [고층 건물](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1027) |
 | [Contact](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1013) | [탑](https://www.acmicpc.net/problem/2493) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2493) |
 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) | [미친 로봇](https://www.acmicpc.net/problem/1405) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1405) | [도서관](https://www.acmicpc.net/problem/1461) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1461) |
-| | | |
+| [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1025) | |
 | | | |
 | | | |
 | | | |
