@@ -153,7 +153,9 @@
 
 > 개인적으로 알고리즘 문제를 풀면서 좋다고 생각하는 문제를 공유하는 공간.
 | 문제 | 푼 사람 | 문제 | 푼 사람 |
+
 | -------- | ----------------------------------------------------- | -------- | ----------------------------------------------------- |
+
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_4485) |
 | [집 구하기](https://www.acmicpc.net/problem/13911) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_13911)| [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_11053) |
 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) | [ACM Craft](https://www.acmicpc.net/problem/1005) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1005) |
