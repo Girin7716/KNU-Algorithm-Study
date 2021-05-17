@@ -122,8 +122,8 @@
 
 ## :pencil: Week Study
 
-|        |                              1                               |                              2                               |                            3                            |                              
-| ------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | 
+|        |                              1                               |                              2                               |                            3                            |
+| ------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
 | 1주차 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [소수의 연속합](https://www.acmicpc.net/problem/1644) |
 | 1주차 문제 푼 사람 | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_12100) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week1/BOJ_12100) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_1/BOJ_12100)| [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_9466) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week1/BOJ_9466) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_1/BOJ_9466)| [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week1/BOJ_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_1/BOJ_1644)|
 | 2주차 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [로봇 청소기](https://www.acmicpc.net/problem/4991) | [낚시왕](https://www.acmicpc.net/problem/17143) |
@@ -138,21 +138,23 @@
 | 6주차 문제 푼 사람 | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_16287) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week6/Parcel) | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_1162) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week6/%EB%8F%84%EB%A1%9C%ED%8F%AC%EC%9E%A5) | [이채현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/Leechaehyun/1%EC%A3%BC%EC%B0%A8_%EB%B0%B1%EC%A4%80_1644) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_6/BOJ_2533) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week6/%EC%82%AC%ED%9A%8C%EB%A7%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4(SNS)) |
 | 7주차 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
 | 7주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)  | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%9C%B7%EB%86%80%EC%9D%B4) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week7/%EC%B9%9C%EA%B5%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) |
-| 8주차 | 시험기간 | 시험기간 | 시험기간 | 
+| 8주차 | 시험기간 | 시험기간 | 시험기간 |
 | 8주차 문제 푼 사람 | 시험기간 | 시험기간 | 시험기간 |
-| 9주차 | 시험기간 | 시험기간 | 시험기간 | 
+| 9주차 | 시험기간 | 시험기간 | 시험기간 |
 | 9주차 문제 푼 사람 | 시험기간 | 시험기간 | 시험기간 |
-| 10주차 | ... | ... | ... | 
+| 10주차 | ... | ... | ... |
 | 10주차 문제 푼 사람 | ... | ... | ... |
-| 11주차 | [구간 나누기](https://www.acmicpc.net/problem/2228) | [보물섬](https://www.acmicpc.net/problem/2589) | [영어읽기](https://www.acmicpc.net/problem/1501) | 
-| 11주차 문제 푼 사람 |  |  |  |
+| 11주차 | [구간 나누기](https://www.acmicpc.net/problem/2228) | [보물섬](https://www.acmicpc.net/problem/2589) | [영어읽기](https://www.acmicpc.net/problem/1501) |
+| 11주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2228) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2589) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/2589) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_2589) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ1501) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/1501) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_1501) |
+| 12주차 | [봄버맨](https://www.acmicpc.net/problem/16918) | [여행 가자](https://www.acmicpc.net/problem/1976) | [두 용액](https://www.acmicpc.net/problem/2470) |
+| 12주차 문제 푼 사람 | | | |
 
 ## :memo: Additional Study
 
 > 개인적으로 알고리즘 문제를 풀면서 좋다고 생각하는 문제를 공유하는 공간.
 
-| 문제     | 푼 사람 |                                                  
-| -------- | ----------------------------------------------------- | 
+| 문제     | 푼 사람 |
+| -------- | ----------------------------------------------------- |
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [김기현](https://www.acmicpc.net/problem/9012)      
 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_4485)
 | [집 구하기](https://www.acmicpc.net/problem/13911) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week3/extra/BOJ_13911)
