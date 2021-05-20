@@ -173,5 +173,5 @@
 
 | [김기현](https://github.com/girin7716) | [이상민](https://github.com/Sangmeeeee) | [안상준](https://github.com/twknds) |
 |-------------------------------------|-----------------------------------------|-------------------------------------|
-| [이채현](https://4legs-study.tistory.com/)| [김강민](https://github.com/kkw1939)     | [조희원]() |
+| [이채현](https://4legs-study.tistory.com/)| [김강민](https://github.com/kkw1939)     | [조희원](https://github.com/njhw20) |
 | [장다영](https://github.com/Da01002)| [people]() | [people]() |
