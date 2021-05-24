@@ -148,6 +148,8 @@
 | 11주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2228) 안상준| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2589) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/2589) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_2589) 안상준| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ1501) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/1501) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_1501) |
 | 12주차 | [봄버맨](https://www.acmicpc.net/problem/16918) | [여행 가자](https://www.acmicpc.net/problem/1976) | [두 용액](https://www.acmicpc.net/problem/2470) |
 | 12주차 문제 푼 사람 |[이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ16918) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ1976) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ2470) |
+| 13주차 | [숌 사이 수열](https://www.acmicpc.net/problem/1469) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [소수인팰린드롬](https://www.acmicpc.net/problem/1990) |
+| 13주차 문제 푼 사람 ||||
 
 ## :memo: Additional Study
 
