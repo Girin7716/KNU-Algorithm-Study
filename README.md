@@ -162,14 +162,14 @@
 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) | [ACM Craft](https://www.acmicpc.net/problem/1005) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1005) |
 | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1022) | [고층 건물](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1027) |
 | [Contact](https://www.acmicpc.net/problem/1027) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1013) | [탑](https://www.acmicpc.net/problem/2493) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2493) |
-| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) | [미친 로봇](https://www.acmicpc.net/problem/1405) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1405) | [도서관](https://www.acmicpc.net/problem/1461) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1461) |
+| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/Programmers_43164) | [미친 로봇](https://www.acmicpc.net/problem/1405) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1405) |
 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1025) | [트리](https://www.acmicpc.net/problem/1068) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1068)|
 | [용액](https://www.acmicpc.net/problem/2467) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2467) | [리모컨](https://www.acmicpc.net/problem/1107) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1107) |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/LeetCode_967) | ||
+| | | ||
+| | | ||
+| | | ||
+| | | ||
 
 ## :boy: Contributors :girl:
 
