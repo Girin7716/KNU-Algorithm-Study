@@ -147,9 +147,23 @@
 | 11주차 | [구간 나누기](https://www.acmicpc.net/problem/2228) | [보물섬](https://www.acmicpc.net/problem/2589) | [영어읽기](https://www.acmicpc.net/problem/1501) |
 | 11주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2228) 안상준| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ2589) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/2589) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_2589) 안상준| [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week11/BOJ1501) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week11/1501) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_11/BOJ_1501) |
 | 12주차 | [봄버맨](https://www.acmicpc.net/problem/16918) | [여행 가자](https://www.acmicpc.net/problem/1976) | [두 용액](https://www.acmicpc.net/problem/2470) |
-| 12주차 문제 푼 사람 |[이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ16918) [장다영](https://github.com/Girin7716/KNU-Algorithm-Study/blob/master/src/dayoung/week12/%EB%B4%84%EB%B2%84%EB%A7%A8.swift) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ1976) | [이상민 ](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ2470) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/blob/master/src/heewon/week12/2470/Main.java) |
+| 12주차 문제 푼 사람 |[이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ16918) [장다영](https://github.com/Girin7716/KNU-Algorithm-Study/blob/master/src/dayoung/week12/%EB%B4%84%EB%B2%84%EB%A7%A8.swift) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ1976) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week12/BOJ2470) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/blob/master/src/heewon/week12/2470/Main.java) |
 | 13주차 | [숌 사이 수열](https://www.acmicpc.net/problem/1469) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [소수인팰린드롬](https://www.acmicpc.net/problem/1990) |
-| 13주차 문제 푼 사람 |[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1469)|[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1600)||
+| 13주차 문제 푼 사람 |[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1469) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1469) |[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1600) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1600)|[이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1990)|
+| 14주차 |  |  |  |
+| 14주차 문제 푼 사람 | | | |
+| 15주차 |  |  |  |
+| 15주차 문제 푼 사람 | | | |
+| 16주차 |  |  |  |
+| 16주차 문제 푼 사람 | | | |
+| 17주차 |  |  |  |
+| 17주차 문제 푼 사람 | | | |
+| 18주차 |  |  |  |
+| 18주차 문제 푼 사람 | | | |
+| 19주차 |  |  |  |
+| 19주차 문제 푼 사람 | | | |
+| 20주차 |  |  |  |
+| 20주차 문제 푼 사람 | | | |
 
 ## :memo: Additional Study
 
@@ -166,10 +180,10 @@
 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1025) | [트리](https://www.acmicpc.net/problem/1068) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1068)|
 | [용액](https://www.acmicpc.net/problem/2467) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2467) | [리모컨](https://www.acmicpc.net/problem/1107) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1107) |
 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/LeetCode_967) | ||
-| | | ||
-| | | ||
-| | | ||
-| | | ||
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ## :boy: Contributors :girl:
 
