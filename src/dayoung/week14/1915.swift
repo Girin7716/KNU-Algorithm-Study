@@ -1,3 +1,5 @@
+/*처음에 모든 경우의 수를 확인하여 답을 찾으려고 했지만 실패하였다. 그래서 아래의 블로그를 참고하여 dp로 다시 풀어보았다.
+참고: https://babbab2.tistory.com/131*/
 
 import Foundation
 
