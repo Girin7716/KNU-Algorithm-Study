@@ -151,7 +151,7 @@
 | 13주차 | [숌 사이 수열](https://www.acmicpc.net/problem/1469) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [소수인팰린드롬](https://www.acmicpc.net/problem/1990) |
 | 13주차 문제 푼 사람 |[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1469) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1469) |[김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_13/BOJ_1600) [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1600)|[이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week13/BOJ1990)|
 | 14주차 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)  |
-| 14주차 문제 푼 사람 | | | |
+| 14주차 문제 푼 사람 | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_14/BOJ_1915) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_14/BOJ_11559) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_14/BOJ_13549) |
 | 15주차 |  |  |  |
 | 15주차 문제 푼 사람 | | | |
 | 16주차 |  |  |  |
