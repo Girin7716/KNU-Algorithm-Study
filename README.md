@@ -180,7 +180,7 @@
 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1025) | [트리](https://www.acmicpc.net/problem/1068) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1068)|
 | [용액](https://www.acmicpc.net/problem/2467) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ2467) | [리모컨](https://www.acmicpc.net/problem/1107) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1107) |
 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/recommand/LeetCode_967) |[음식 평론가](https://www.acmicpc.net/problem/1188) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/extra/BOJ1188) |
-| | | | |
+| [합분해](https://www.acmicpc.net/problem/2225) | | | |
 | | | | |
 | | | | |
 | | | | |
