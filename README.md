@@ -155,7 +155,7 @@
 | 15주차 | [크게 만들기](https://www.acmicpc.net/problem/2812) | [미친 로봇](https://www.acmicpc.net/problem/1405) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
 | 15주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ2812) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_2812) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week15/2812) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ1405) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_1405) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ2075) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_2075) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week15/2075) |
 | 16주차 | [뒤집기](https://www.acmicpc.net/problem/15999) | [거짓말](https://www.acmicpc.net/problem/1043) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
-| 16주차 문제 푼 사람 | | | |
+| 16주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ15999) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ1043) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ1038) |
 | 17주차 |  |  |  |
 | 17주차 문제 푼 사람 | | | |
 | 18주차 |  |  |  |
