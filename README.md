@@ -156,8 +156,8 @@
 | 15주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ2812) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_2812) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week15/2812) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ1405) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_1405) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week15/BOJ2075) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_15/BOJ_2075) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week15/2075) |
 | 16주차 | [뒤집기](https://www.acmicpc.net/problem/15999) | [거짓말](https://www.acmicpc.net/problem/1043) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
 | 16주차 문제 푼 사람 | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ15999) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ1043) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_16/BOJ_1043) | [이상민](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/sangmin/week16/BOJ1038) [김기현](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/kimkihyun/week_16/BOJ_1038) [조희원](https://github.com/Girin7716/KNU-Algorithm-Study/tree/master/src/heewon/week16/1038) |
-| 17주차 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [1학년](https://www.acmicpc.net/problem/5557) |
-| 17주차 문제 푼 사람 | | | |
+| 17주차 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [1학년](https://www.acmicpc.net/problem/5557) | 
+| 17주차 문제 푼 사람 | [장다영](https://github.com/Girin7716/KNU-Algorithm-Study/blob/master/src/dayoung/week17/다단계칫솔판매.swift) | | |
 | 18주차 |  |  |  |
 | 18주차 문제 푼 사람 | | | |
 | 19주차 |  |  |  |
